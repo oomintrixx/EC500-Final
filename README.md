@@ -1,1 +1,1 @@
-# EC500-Final
+# EC500-News Analyzer
