@@ -1,6 +1,7 @@
 # EC500-News Analyzer
-Team 19
+Team 18
 Chen-Wei Weng
+Yuhan Chen
 
 ## Overview
 ![registert](https://github.com/oomintrixx/EC500-Final/blob/main/misc/%E6%88%AA%E5%9C%96%202021-05-04%20%E4%B8%8B%E5%8D%882.50.49.png)
